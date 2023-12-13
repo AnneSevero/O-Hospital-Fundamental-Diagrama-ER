@@ -11,7 +11,9 @@
 
   **Dessa forma, desenhei um Diagrama ER de acordo com a minha análise referente a esse dados extraidos:**
 
-![Captura de tela 2023-11-11 133016](https://github.com/AnneSevero/O-Hospital-Fundamental-Diagrama-ER/assets/142261781/f432602a-b73e-4544-9642-40e5577877f2)
+![image](https://github.com/AnneSevero/O-Hospital-Fundamental-Diagrama-ER/assets/142261781/ddd44518-8ebc-4b3d-97ff-efc9bf45da7f)
+
+
 
 
 
