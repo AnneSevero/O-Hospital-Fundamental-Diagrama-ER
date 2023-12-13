@@ -13,6 +13,10 @@
 
 ![image](https://github.com/AnneSevero/O-Hospital-Fundamental-Diagrama-ER/assets/142261781/ddd44518-8ebc-4b3d-97ff-efc9bf45da7f)
 
+**Após a ligação dos dados extraidos:**
+
+![image](https://github.com/AnneSevero/O-Hospital-Fundamental-Diagrama-ER/assets/142261781/75b57bed-a780-418c-8de6-9b65e4772261)
+
 
 
 
